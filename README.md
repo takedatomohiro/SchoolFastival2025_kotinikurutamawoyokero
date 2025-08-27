@@ -1,0 +1,2 @@
+# SchoolFastival2025_kotinikurutamawoyokero
+学園祭用に作ったゲームです
